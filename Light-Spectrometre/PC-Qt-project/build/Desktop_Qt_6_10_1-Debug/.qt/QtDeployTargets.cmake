@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_test2_USB_FILE /home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/test2_USB)
+set(__QT_DEPLOY_TARGET_test2_USB_TYPE EXECUTABLE)

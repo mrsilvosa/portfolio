@@ -1,0 +1,9 @@
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/test2_USB.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/edit_cache.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/list_install_components.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install/local.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/install/strip.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/test2_USB_autogen_timestamp_deps.dir
+/home/mrsilvosa/QtProjects/test2_USB/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/test2_USB_autogen.dir
